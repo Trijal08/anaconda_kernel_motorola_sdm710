@@ -7,3 +7,7 @@
 [submodule "build/anykernel"]
 	path = build/anykernel
 	url = https://github.com/osm0sis/AnyKernel3
+[submodule "KernelSU-Next"]
+	path = KernelSU-Next
+	url = https://github.com/Trijal08/KernelSU-Next.git
+	branch = next
